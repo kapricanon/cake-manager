@@ -1,5 +1,6 @@
 *.iml
 .settings
+.metadata
 target
 .project
 .classpath
